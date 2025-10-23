@@ -30,10 +30,10 @@ The above picture shows the personal information page after clicking personal in
 ##### 运动数据页 - Exercise Data Page
 <img width="234" height="478" alt="运动数据页" src="https://github.com/user-attachments/assets/ef4017e8-14ff-45f5-a73f-64139052e7fc" />
 
-上图为点击查看数据后所展示的过去运动数据。
+上图为点击查看数据后所展示的过去运动数据。  
 The picture above shows the past exercise data after clicking View Data.
 ##### 免登录使用状态 - Login-Free Status
 <img width="217" height="407" alt="免登录使用状态" src="https://github.com/user-attachments/assets/3fd03de8-a659-494c-8cc7-a8d7a1107f55" />
 
-上图为免登录使用状态下的程序主界面。
+上图为免登录使用状态下的程序主界面。  
 The above picture shows the main interface under the login-free status.
